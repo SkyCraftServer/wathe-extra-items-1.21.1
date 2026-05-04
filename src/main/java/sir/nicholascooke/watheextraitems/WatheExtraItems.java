@@ -16,6 +16,6 @@ public class WatheExtraItems implements ModInitializer {
 		ModBlocks.regModBlocks();
 		ModItems.regModItems();
 		ModItemGroups.regItemGroups();
-		ExtraItemsGameHooks.init();
+		// ExtraItemsGameHooks.init();
 	}
 }
