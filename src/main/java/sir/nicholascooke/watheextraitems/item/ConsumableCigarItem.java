@@ -15,7 +15,7 @@ import net.minecraft.util.Hand;
 import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.world.World;
-import sir.nicholascooke.watheextraitems.api.SmokingTracker;
+import dev.doctor4t.wathe.api.SmokingTracker;
 
 import java.util.List;
 
